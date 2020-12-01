@@ -1,1 +1,2 @@
-file created after first commit
+file created after first commit.
+first change in the index file .
